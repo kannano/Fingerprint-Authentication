@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/fimgerprint Authentication/gradle/wrapper/gradle-wrapper.properties",
+      "selection": {
+        "end": {
+          "column": 26,
+          "index": 223,
+          "line": 5
+        },
+        "start": {
+          "column": 26,
+          "index": 223,
+          "line": 5
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/fimgerprint Authentication/gradle/wrapper/gradle-wrapper.properties"
+}

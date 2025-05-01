@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/fimgerprint Authentication/app/src/main/java/com/example/fimgerprintauthentication/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 29,
+          "index": 3847,
+          "line": 87
+        },
+        "start": {
+          "column": 29,
+          "index": 3847,
+          "line": 87
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/fimgerprint Authentication/app/src/main/java/com/example/fimgerprintauthentication/MainActivity.java"
+}
